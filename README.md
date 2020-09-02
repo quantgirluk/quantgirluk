@@ -1,3 +1,6 @@
+
+![](QuantGirl.png)
+
 ## Hi there 🙋🏽‍♀️
 
 My name is Dialid and I am a mathematician working as a finance quantitative analyst. I was born in [Mexico City](https://en.wikipedia.org/wiki/Mexico_City) and grew up in [Oaxaca](https://en.wikipedia.org/wiki/Oaxaca), Mexico. In 2012, I moved to the UK to study a PhD in Mathematics and Statistics at the [University of Warwick](https://warwick.ac.uk/). Currently, I work for an investment bank in London.
