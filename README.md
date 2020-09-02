@@ -1,5 +1,5 @@
 
-![](https://raw.github.com/quantgirluk/quantgirluk/master/QuantGirl.png)
+![](https://raw.github.com/quantgirluk/quantgirluk/master/ReadMe.png)
 
 ## Hi there 🙋🏽‍♀️
 
