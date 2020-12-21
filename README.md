@@ -13,7 +13,7 @@ My name is Dialid and I am a mathematician working as a finance quantitative ana
 
 - 🦜 [Twitter](https://twitter.com/Quant_Girl)
 - 📸 [Instagram](https://www.instagram.com/quantgirl_mx/)
-- 👩🏽‍💼 [Linkedin](https://www.linkedin.com/feed/)
+- 👩🏽‍💼 [Linkedin](https://www.linkedin.com/in/dialidsantiago/)
 - 👩🏽‍💻 [Dev](https://dev.to/quantgirluk)
 
 
