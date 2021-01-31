@@ -1,5 +1,5 @@
 
-![](https://raw.github.com/quantgirluk/quantgirluk/master/ReadMe.png)
+![](https://raw.github.com/quantgirluk/quantgirluk/master/ReadMeDark.png)
 
 ## Hi there 🙋🏽‍♀️
 
