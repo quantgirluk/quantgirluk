@@ -8,8 +8,8 @@ My name is Dialid and I am a mathematician working as a finance quantitative ana
 I am currently:
 
 - 🔭  working as front office quant focusing on Commodities
-- 🖥 coding in Python and C++
-- 📚 reading [The End of Alchemy: Money, Banking, and the Future of the Global Economy](https://github.com/quantgirluk/Reading/blob/main/The_End_of_Alchemy.md) by Mervin King.
+- 🖥 coding in C++ and Python
+- 📚 reading: I keep a book diary that you can visit [here](https://github.com/quantgirluk/Reading)
 - 📺 watching [The Expanse](https://www.imdb.com/title/tt3230854/) last season
 
 **Please visit my [personal website](https://quantgirl.blog/) ⭐ and connect with me via:**
