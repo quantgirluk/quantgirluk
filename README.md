@@ -9,7 +9,7 @@ I am currently:
 
 - 🔭  working as front office quant focusing on Commodities
 - 🖥 coding in C++ and Python
-- 📚 reading: I keep a book diary that you can visit [here](https://github.com/quantgirluk/Reading)
+- 📚 reading: I keep a Git-reading-diary that you can visit [here!](https://github.com/quantgirluk/Reading)
 - 📺 watching [The Expanse](https://www.imdb.com/title/tt3230854/) last season
 
 **Please visit my [personal website](https://quantgirl.blog/) ⭐ and connect with me via:**
