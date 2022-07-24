@@ -6,7 +6,7 @@ I am currently:
 
 - 🔭  working as front office quantitative strategist
 - 🖥 coding in C++ and Python
-- 📚 reading: I am currently reading Mercy Street, Prisoner of Geography, and Capital Ideas.
+- 📚 reading: I am currently reading The Last Lecture, Prisoner of Geography, and Capital Ideas.
 - 📺 watching: I just finished the last season of [The Expanse](https://www.imdb.com/title/tt3230854/) and not watching anything at the moment. If you have a good tv-series recommendation please let me know!
 
 **Please visit my [personal website](https://quantgirl.blog/) ⭐ and connect with me via:**
