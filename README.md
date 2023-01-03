@@ -1,4 +1,4 @@
-My name is Dialid and I am a mathematician working as a quantitative analyst at an investment bank in London.
+My name is Dialid and I am a mathematician working as a quantitative analyst at an investment bank in London. In my free time, I create open source projects and write about financial mathematics, programming, statistics, data visualisation, and other related topics
 
 I am currently:
 
@@ -7,7 +7,7 @@ I am currently:
 - 📚 reading The Midnight Library and Capital Ideas
 - 📺 not watching anything at the moment. If you have a good tv-series, film, or documentary recommendation please let me know!
 
-Please visit my [personal website](https://quantgirl.blog/) ⭐ and connect with me via:
+Please visit my [personal website](https://quantgirl.blog/) and connect with me via:
 
 - 🦜 [Twitter](https://twitter.com/Quant_Girl)
 - 📸 [Instagram](https://www.instagram.com/quantgirl_mx/)
