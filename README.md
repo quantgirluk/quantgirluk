@@ -4,7 +4,7 @@ I am currently:
 
 - 🔭 working as front office quantitative strategist
 - 🖥 coding in Python using Pycharm and VSCode
-- 📚 reading The Midnight Library and Capital Ideas
+- 📚 reading [The Selfish Gene](https://en.wikipedia.org/wiki/The_Selfish_Gene) and [Capital Ideas: The Improbable Origins of Modern Wall Street](https://www.goodreads.com/en/book/show/179198.Capital_Ideas)
 - 📺 not watching anything at the moment. If you have a good tv-series, film, or documentary recommendation please let me know!
 
 Please visit my [personal website](https://quantgirl.blog/) and connect with me via:
