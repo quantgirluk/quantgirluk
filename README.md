@@ -10,7 +10,7 @@ I am currently:
 Please visit my [personal website](https://quantgirl.blog/) and connect with me via:
 
 - 🦜 [Twitter](https://twitter.com/Quant_Girl)
-- 📸 [Instagram](https://www.instagram.com/quantgirl_mx/)
+- 📸 [Instagram](https://www.instagram.com/quant_girl/)
 - 👩🏽‍💼 [Linkedin](https://www.linkedin.com/in/dialidsantiago/)
 - 👩🏽‍💻 [Dev](https://dev.to/quantgirluk)
 
