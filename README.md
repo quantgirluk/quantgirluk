@@ -6,7 +6,8 @@ I am currently:
 
 - 🔭 working as front office quantitative strategist
 - 🖥 coding in Python using Pycharm and VSCode
-- 📚 reading [The Selfish Gene](https://en.wikipedia.org/wiki/The_Selfish_Gene), [Explaining Humans](https://www.penguin.co.uk/books/314264/explaining-humans-by-pang-dr-camilla/9780241987117), and [Capital Ideas: The Improbable Origins of Modern Wall Street](https://www.goodreads.com/en/book/show/179198.Capital_Ideas)
+- 📚 reading [Explaining Humans](https://www.penguin.co.uk/books/314264/explaining-humans-by-pang-dr-camilla/9780241987117), and [Capital Ideas: The Improbable Origins of Modern Wall Street](https://www.goodreads.com/en/book/show/179198.Capital_Ideas)
+- 📖 recently finished [The Selfish Gene](https://en.wikipedia.org/wiki/The_Selfish_Gene)
 - 📺 not watching anything at the moment. If you have a good tv-series, film, or documentary recommendation please let me know!
 - ✨ Working on this project [Understanding Quantitative Finance](https://quantgirluk.github.io/Understanding-Quantitative-Finance/intro.html)
 
