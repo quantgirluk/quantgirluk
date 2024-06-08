@@ -8,7 +8,8 @@ Currently, I am:
 - 🔭 working as front office quantitative strategist
 - 🖥 coding in Python 🐍 and C++ using both Pycharm and VSCode
 - ✨ writing this series of notes about topics in Financial Mathematics: [UQF: Understanding Quantitative Finance](https://quantgirluk.github.io/Understanding-Quantitative-Finance/intro.html)
-- 📚 reading [The Perfection Trap](https://www.penguin.co.uk/books/447202/the-perfection-trap-by-curran-thomas/9781847943866) and [Invisible Women](https://carolinecriadoperez.com/book/invisible-women/)
+- 📚 reading [The Perfection Trap](https://www.penguin.co.uk/books/447202/the-perfection-trap-by-curran-thomas/9781847943866) and
+  [Possible Minds: 25 Ways of Looking at AI](https://en.wikipedia.org/wiki/Possible_Minds)
 - 📺 not watching anything at the moment. If you have a good tv-series, film, or documentary recommendation please let me know!
 
 
