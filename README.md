@@ -1,6 +1,13 @@
 
 <h2 align="center">Hello world ✨ I'm Dialid </h2>
 
+**This year, I will use the countdown to Christmas 🎄 to review 24 stochastic processes! Checkout the details here:**
+
+<p style="text-align:center;">
+[Advent Calendar: 2024](https://quantgirl.blog/advent-calendar-2024/)
+</p>
+
+
 I am a mathematician working as a Quantitative Analyst at an investment bank in London. In my free time, I create open source projects and write about financial mathematics, programming, statistics, data visualisation, and other related topics.
 
 Currently, I am:
