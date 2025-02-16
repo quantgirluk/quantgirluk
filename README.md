@@ -1,25 +1,23 @@
 
 <h2 align="center">Hello world ✨ I'm Dialid </h2>
 
-This year, I will use the countdown to Christmas 🎄 to review 24 stochastic processes! Checkout the details here:
-
-<h3 align="center">  <a href="https://quantgirl.blog/advent-calendar-2024/">Advent Calendar 2024 - Stochastic Processes</a> </h3>
-
-
-
-
-
 I am a mathematician working as a Quantitative Analyst at an investment bank in London. In my free time, I create open source projects and write about financial mathematics, programming, statistics, data visualisation, and other related topics.
+
+Recent Updates:
+
+- 🚀 Released v1.0.1 of the aleatory (/ˈeɪliətəri/) Python library to simulate and visualise stochastic processes. Check out this [Gallery](https://aleatory.readthedocs.io/en/latest/auto_examples/index.html) to see what you can do with aleatory.
+- 🖋️ Released the first part of a Cookbook about Data Visualisation with Plotly and Dash: [Plotly-Dash-Cookbook](https://quantgirluk.github.io/Plolty-Dash-Cookbook/intro.html).
 
 Currently, I am:
 
 - 🔭 working as front office quantitative strategist
-- 🖥 coding in Python 🐍 and C++ using both Pycharm and VSCode
+- 🖥 coding in Python 🐍 and C++
+- 🧰 still deciding between Pycharm and VSCode as my favourite editor
 - ✨ writing this series of notes about topics in Financial Mathematics: [UQF: Understanding Quantitative Finance](https://quantgirluk.github.io/Understanding-Quantitative-Finance/intro.html)
-- 🖋️ writing a Cookbook about Data Visualisation with Plotly and Dash.
+- 🖋️ writing a Cookbook about Data Visualisation with Plotly and Dash: [Plotly-Dash-Cookbook](https://quantgirluk.github.io/Plolty-Dash-Cookbook/intro.html).
 - 📚 reading
-  [Possible Minds: 25 Ways of Looking at AI](https://en.wikipedia.org/wiki/Possible_Minds)
-- 📺 not watching anything at the moment. If you have a good tv-series, film, or documentary recommendation please let me know!
+  [The Anxious Generation](https://www.penguin.co.uk/books/456971/the-anxious-generation-by-haidt-jonathan/9781802063271)
+- 📺 not watching anything at the moment but recently watched [Disclaimer](https://www.rottentomatoes.com/tv/disclaimer/s01). If you have a good tv-series, film, or documentary recommendation please let me know!
 
 
 Please visit my personal site [Quant Girl](https://quantgirl.blog/) and connect with me via:
