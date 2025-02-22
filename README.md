@@ -16,7 +16,7 @@ Currently, I am:
 - 🖥 coding in Python 🐍 and C++
 - 🧰 still deciding between Pycharm and VSCode as my favourite editor
 - ✨ writing this series of notes about topics in Financial Mathematics: [UQF: Understanding Quantitative Finance](https://quantgirluk.github.io/Understanding-Quantitative-Finance/intro.html)
-- 🖋️ writing a Cookbook about Data Visualisation with Plotly and Dash: [Plotly-Dash-Cookbook]([https://quantgirluk.github.io/Plolty-Dash-Cookbook/intro.html](https://quantgirluk.github.io/Plotly-Dash-Cookbook/intro.html)).
+- 🖋️ writing a Cookbook about Data Visualisation with Plotly and Dash: [Plotly-Dash-Cookbook](https://quantgirluk.github.io/Plotly-Dash-Cookbook/intro.html)
 - 📚 reading
   [The Anxious Generation](https://www.penguin.co.uk/books/456971/the-anxious-generation-by-haidt-jonathan/9781802063271)
 - 📺 not watching anything at the moment but recently watched [Disclaimer](https://www.rottentomatoes.com/tv/disclaimer/s01). If you have a good tv-series, film, or documentary recommendation please let me know!
