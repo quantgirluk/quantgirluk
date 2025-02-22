@@ -5,7 +5,7 @@ I am a mathematician working as a Quantitative Analyst at an investment bank in 
 
 Project Updates:
 
-- 🖋️ Released the first part of a Cookbook about Data Visualisation with Plotly and Dash: [Plotly-Dash-Cookbook](https://quantgirluk.github.io/Plolty-Dash-Cookbook/intro.html).
+- 🖋️ Released the first part of a Cookbook about Data Visualisation with Plotly and Dash: [Plotly-Dash-Cookbook](https://quantgirluk.github.io/Plotly-Dash-Cookbook/intro.html).
 
 - 🚀 Released v1.0.1 of the aleatory (/ˈeɪliətəri/) Python library to simulate and visualise stochastic processes. Check out the new [Gallery of Stochastic Processes](https://aleatory.readthedocs.io/en/latest/auto_examples/index.html) to see what you can do with aleatory.
 
