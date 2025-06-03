@@ -5,6 +5,8 @@ I am a mathematician working as a Quantitative Analyst at an investment bank in 
 
 Project Updates:
 
+- 🚀 Moved my personal website. Visit the new site [Dialid Santiago/ Quant Girl](https://dialidsantiago.com)
+
 - 🖋️ Released the first part of a Cookbook about Data Visualisation with Plotly and Dash: [Plotly-Dash-Cookbook](https://quantgirluk.github.io/Plotly-Dash-Cookbook/intro.html).
 
 - 🚀 Released v1.0.1 of the aleatory (/ˈeɪliətəri/) Python library to simulate and visualise stochastic processes. Check out the new [Gallery of Stochastic Processes](https://aleatory.readthedocs.io/en/latest/auto_examples/index.html) to see what you can do with aleatory.
@@ -22,7 +24,7 @@ Currently, I am:
 - 📺 not watching anything at the moment but recently watched [Disclaimer](https://www.rottentomatoes.com/tv/disclaimer/s01). If you have a good tv-series, film, or documentary recommendation please let me know!
 
 
-Please visit my personal site [Quant Girl](https://quantgirl.blog/) and connect with me via:
+Please visit my personal site [Quant Girl](https://quantgirl.com) and connect with me via:
 
 - 🦜 [Twitter](https://twitter.com/Quant_Girl)
 - 📸 [Instagram](https://www.instagram.com/quant_girl/)
