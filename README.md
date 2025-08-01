@@ -5,6 +5,10 @@ I am a mathematician working as a Quantitative Analyst at an investment bank in 
 
 Project Updates:
 
+- 🗓️ Moved my Advent Calendars to their own repos:
+  - [Calendar of Distributions](https://quantgirluk.github.io/advent-calendar-2023/)
+  - [Calendar of Stochastic Processes](https://quantgirluk.github.io/advent-calendar-2024/)
+
 - 🚀 Moved my personal website. Visit the new site [Dialid Santiago/ Quant Girl](https://dialidsantiago.com)
 
 - 🖋️ Released the first part of a Cookbook about Data Visualisation with Plotly and Dash: [Plotly-Dash-Cookbook](https://quantgirluk.github.io/Plotly-Dash-Cookbook/intro.html).
