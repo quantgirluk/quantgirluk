@@ -3,7 +3,10 @@
 
 I am a mathematician working as a Quantitative Analyst at an investment bank in London. In my free time, I create open source projects and write about financial mathematics, programming, statistics, data visualisation, and other related topics.
 
-Project Updates:
+Updates:
+- 🆕🚀 I just started these curated lists
+  - [Quant Books](https://github.com/quantgirluk/Quant-Books)
+  - [Quant Papers](https://github.com/quantgirluk/Quant-Papers)  
 
 - 🗓️ Moved my Advent Calendars to their own repos:
   - [Calendar of Distributions](https://quantgirluk.github.io/advent-calendar-2023/)
