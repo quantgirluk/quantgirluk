@@ -4,7 +4,7 @@
 I am a mathematician working as a Quantitative Analyst at an investment bank in London. In my free time, I create open source projects and write about financial mathematics, programming, statistics, data visualisation, and other related topics.
 
 Updates:
-- 🆕🚀 I just started these curated lists to share my favourite technical reads:
+- 🆕🚀 I started these curated lists to share my favourite technical reads:
   - [Quant Books](https://github.com/quantgirluk/Quant-Books)
   - [Quant Papers](https://github.com/quantgirluk/Quant-Papers)  
 
@@ -21,7 +21,7 @@ Updates:
 
 Currently, I am:
 
-- 🔭 working as front office quantitative strategist
+- 🔭 working as Commodities front office quant
 - 🖥 coding in Python 🐍 and C++
 - 🧰 still deciding between Pycharm and VSCode as my favourite editor
 - ✨ writing this series of notes about topics in Financial Mathematics: [UQF: Understanding Quantitative Finance](https://quantgirluk.github.io/Understanding-Quantitative-Finance/intro.html)
