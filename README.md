@@ -7,8 +7,8 @@ Updates:
 - 🆕🎄⭐️ Starting the 2025 Advent countdow: [Calendar of Quant Plots](https://quantgirluk.github.io/advent-calendar-2025/)
 
   - 🗓️ You can visit previous Years Advent Calendars Here:
-    - [Calendar of Distributions](https://quantgirluk.github.io/advent-calendar-2023/)
-    - [Calendar of Stochastic Processes](https://quantgirluk.github.io/advent-calendar-2024/)
+    - Calendar of Distributions [Site](https://quantgirluk.github.io/advent-calendar-2023/), [Repo](https://github.com/quantgirluk/advent-calendar-2023/tree/main)
+    - Calendar of Stochastic Processes [Site](https://quantgirluk.github.io/advent-calendar-2024/), [Repo](https://github.com/quantgirluk/advent-calendar-2024/tree/main)
   
 - 🚀 I started these curated lists to share my favourite technical reads:
   - [Quant Books](https://github.com/quantgirluk/Quant-Books)
