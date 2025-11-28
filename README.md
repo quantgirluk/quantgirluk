@@ -4,13 +4,15 @@
 I am a mathematician working as a Quantitative Analyst at an investment bank in London. In my free time, I create open source projects and write about financial mathematics, programming, statistics, data visualisation, and other related topics.
 
 Updates:
-- 🆕🚀 I started these curated lists to share my favourite technical reads:
+- 🆕🎄⭐️ Starting the 2025 Advent countdow: [Calendar of Quant Plots](https://quantgirluk.github.io/advent-calendar-2025/)
+
+  - 🗓️ You can visit previous Years Advent Calendars Here:
+    - [Calendar of Distributions](https://quantgirluk.github.io/advent-calendar-2023/)
+    - [Calendar of Stochastic Processes](https://quantgirluk.github.io/advent-calendar-2024/)
+  
+- 🚀 I started these curated lists to share my favourite technical reads:
   - [Quant Books](https://github.com/quantgirluk/Quant-Books)
   - [Quant Papers](https://github.com/quantgirluk/Quant-Papers)  
-
-- 🗓️ Moved my Advent Calendars to their own repos:
-  - [Calendar of Distributions](https://quantgirluk.github.io/advent-calendar-2023/)
-  - [Calendar of Stochastic Processes](https://quantgirluk.github.io/advent-calendar-2024/)
 
 - 🚀 Moved my personal website. Visit the new site [Dialid Santiago/ Quant Girl](https://dialidsantiago.com)
 
