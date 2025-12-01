@@ -4,7 +4,7 @@
 I am a mathematician working as a Quantitative Analyst at an investment bank in London. In my free time, I create open source projects and write about financial mathematics, programming, statistics, data visualisation, and other related topics.
 
 Updates:
-- 🆕🎄⭐️ Starting the 2025 Advent countdow: [Calendar of Quant Plots](https://quantgirluk.github.io/advent-calendar-2025/)
+- 🆕🎄⭐️ Starting the 2025 Advent countdow: [Calendar of Quant Plots Site](https://quantgirluk.github.io/advent-calendar-2025/) [Repo](https://github.com/quantgirluk/advent-calendar-2025)
 
   - 🗓️ You can visit previous Years Advent Calendars Here:
     - Calendar of Distributions [Site](https://quantgirluk.github.io/advent-calendar-2023/), [Repo](https://github.com/quantgirluk/advent-calendar-2023/tree/main)
