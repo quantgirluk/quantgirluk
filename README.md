@@ -3,23 +3,19 @@
 
 I am a mathematician working as a Quantitative Analyst at an investment bank in London. In my free time, I create open source projects and write about financial mathematics, programming, statistics, data visualisation, and other related topics.
 
-Updates:
-- 🆕🎄⭐️ Starting the 2025 Advent countdow: [Calendar of Quant Plots Site](https://quantgirluk.github.io/advent-calendar-2025/) [Repo](https://github.com/quantgirluk/advent-calendar-2025)
+Please visit my personal website here [Dialid Santiago/ Quant Girl](https://dialidsantiago.com)
 
-  - 🗓️ You can visit previous Years Advent Calendars Here:
-    - Calendar of Distributions [Site](https://quantgirluk.github.io/advent-calendar-2023/), [Repo](https://github.com/quantgirluk/advent-calendar-2023/tree/main)
-    - Calendar of Stochastic Processes [Site](https://quantgirluk.github.io/advent-calendar-2024/), [Repo](https://github.com/quantgirluk/advent-calendar-2024/tree/main)
-  
-- 🚀 I started these curated lists to share my favourite technical reads:
+You can browse some of my open Source Projects in my [Portfolio](https://dialidsantiago.com/project/)
+
+🚀 I started these curated lists to share my favourite technical reads:
   - [Quant Books](https://github.com/quantgirluk/Quant-Books)
-  - [Quant Papers](https://github.com/quantgirluk/Quant-Papers)  
-
-- 🚀 Moved my personal website. Visit the new site [Dialid Santiago/ Quant Girl](https://dialidsantiago.com)
-
-- 🖋️ Released the first part of a Cookbook about Data Visualisation with Plotly and Dash: [Plotly-Dash-Cookbook](https://quantgirluk.github.io/Plotly-Dash-Cookbook/intro.html).
-
-- 🚀 Released v1.0.1 of the aleatory (/ˈeɪliətəri/) Python library to simulate and visualise stochastic processes. Check out the new [Gallery of Stochastic Processes](https://aleatory.readthedocs.io/en/latest/auto_examples/index.html) to see what you can do with aleatory.
-
+  - [Quant Papers](https://github.com/quantgirluk/Quant-Papers)
+  
+Since 2023, I started making Advent Calendars 🗓️ as  fun way to share simple concepts related to Mathematical Finance. You can visit previous Years Advent Calendars Here:
+  
+  - Calendar of Distributions [Site](https://quantgirluk.github.io/advent-calendar-2023/), [Repo](https://github.com/quantgirluk/advent-calendar-2023/tree/main)
+  - Calendar of Stochastic Processes [Site](https://quantgirluk.github.io/advent-calendar-2024/), [Repo](https://github.com/quantgirluk/advent-calendar-2024/tree/main)
+  - Calendar of Quant Plots [Site](https://quantgirluk.github.io/advent-calendar-2025/) [Repo](https://github.com/quantgirluk/advent-calendar-2025)
 
 Currently, I am:
 
